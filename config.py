@@ -1,1 +1,2 @@
 weather_api_key="4784e54b6b719f5fecd9b08fd1475198"
+nyt_api_key = "FdOZCsewyqQweNMhFNtsScK1RpfV9Av7"
